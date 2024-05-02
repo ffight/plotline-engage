@@ -1,0 +1,23 @@
+{
+  "name": "plotline-engage",
+  "version": "4.2.1",
+  "description": "React Native plugin for Plotline",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "plotline",
+    "product",
+    "user-survey"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/plotline-insights/plotline-insights.git"
+  },
+  "author": "Plotline",
+  "license": "BSD-3",
+  "peerDependencies": {
+    "react-native": ">= 0.41.2"
+  }
+}
